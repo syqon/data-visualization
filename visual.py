@@ -1717,9 +1717,3 @@ plt.xlabel("Industry", fontsize = 14, weight = "bold")
 plt.savefig("2019-2021industry-lifetime.jpg", dpi = 300, bbox_inches = 'tight')
 plt.show()
 
-
-# In[ ]:
-
-
-
-
